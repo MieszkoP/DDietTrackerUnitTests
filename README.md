@@ -2,7 +2,7 @@
 
 Unit tests for [Desktop Diet Tracker v. 0.0.1](https://github.com/MieszkoP/DDietTracker).
 
-##encies you needed include:
+## Dependencies you needed include:
 - Qt (I used version 5.15.2 Qt)
 - Cmake (I used 3.24.2)
 - Jsoncpp
