@@ -17,5 +17,7 @@ set(BOOST_INCLUDE_DIR "/home/mieszko/boost_1_83_0") # Change the location to whe
 ...
 set(CMAKE_PREFIX_PATH "~/vcpkg/packages/jsoncpp_x64-linux" ${CMAKE_PREFIX_PATH})
 ```
+
 Unit tests directory should be in the same directory as base project directory:
+
 ".../SomeDirectory/DDietTracker/" and ".../SomeDirectory/DDietTrackerUnitTests/"
